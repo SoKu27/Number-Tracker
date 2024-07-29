@@ -1,1 +1,1 @@
-# Number-Tracker
+# Number-Tracker This is a javascript and HTML/CSS project where you can keep count of number manuelly
